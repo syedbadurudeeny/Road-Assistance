@@ -1,0 +1,44 @@
+const MechanicsData = [
+    {
+        id:1,
+        name:"syed",
+        number:"6383304335",
+        address:"pallavaram",
+        dob:"20/10/2000",
+        img:"mechanic1.jpg"
+    },
+    {
+        id:2,
+        name:"dilli",
+        number:"9876543298",
+        address:"chrompet",
+        dob:"20/10/2000",
+        img:"mechanic2.jpg"
+    },
+    {
+        id:3,
+        name:"rolex",
+        number:"7862314590",
+        address:"tambaram",
+        dob:"20/10/2000",
+        img:"mechanic3.jpg"
+    },
+    {
+        id:4,
+        name:"vikram",
+        number:"1234567890",
+        address:"sanatorium",
+        dob:"20/10/2000",
+        img:"mechanic4.jpg"
+    },
+    {
+        id:5,
+        name:"leo",
+        number:"0987654321",
+        address:"guindy",
+        dob:"20/10/2000",
+        img:"mechanic5.jpg"
+    },
+]
+
+export default MechanicsData;
